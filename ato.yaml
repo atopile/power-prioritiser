@@ -2,5 +2,3 @@ ato-version: ^0.2.0
 builds:
   default:
     entry: elec/src/power-prioritiser.ato:PowerPrioritiser
-dependencies:
-- generics
